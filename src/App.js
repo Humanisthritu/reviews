@@ -10,6 +10,7 @@ function App() {
             <div className="underline"></div>
           </div>
           <Review/>
+         
         </section>
       </main>
     </>
